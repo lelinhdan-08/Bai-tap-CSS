@@ -1,0 +1,21 @@
+div.blockA{
+    background-color:#ee4d2d;
+    height:100px;
+    width:100%;
+    padding:20px;
+    
+}
+div.blockB{ 
+    background-color: blue;
+    height: 100px;
+    width:100%;
+    padding:50px;
+    margin:20px;
+    border:dashed 5px pink;
+}
+p{
+    color:white
+
+
+
+}

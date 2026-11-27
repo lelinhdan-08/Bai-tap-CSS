@@ -1,0 +1,14 @@
+h1.chuxanhdep{
+    color:rgb(255, 127, 232);
+    font-size::medium;
+    font-style::picker-icon;
+}
+div.blockRed{
+    background-color: rgb(144, 0, 255);
+    height:100px;
+}
+p{
+    color:rgba(226, 107, 43, 0.648);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:70pt;
+}
